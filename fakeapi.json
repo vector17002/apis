@@ -1,17 +1,7 @@
 { "Sdata" : [
-    {   "sname":"Russian Doll",
-        "imgsrc":"https://m.media-amazon.com/images/M/MV5BMzRjYzA2YzgtYmEyYy00YzZjLTkzMGEtMWQ1M2Y2MTA2ZjcwXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_FMjpg_UX1000_.jpg",
-        "link":"https://www.netflix.com/in/title/80211627?source=35",
-        "rating":"6.8"
-
-    }, 
+  
+   
     {   "sname":"All of us are dead",
-        "imgsrc":"https://www.pinkvilla.com/imageresize/netflix_main_3.png?width=752&format=webp&t=pvorg",
-        "link":"https://www.netflix.com/in/title/81237994?source=35",
-        "rating":"8.8"
-
-    }, 
-    {   "sname":" dead",
         "imgsrc":"https://www.pinkvilla.com/imageresize/netflix_main_3.png?width=752&format=webp&t=pvorg",
         "link":"https://www.netflix.com/in/title/81237994?source=35",
         "rating":"8.8"
