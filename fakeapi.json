@@ -18,7 +18,20 @@
         "link":"https://www.netflix.com/in/title/80057281?source=35",
         "rating":"8.7"
 
+    }, 
+   {   "sname":"Money Hiest",
+        "imgsrc":"https://static.wikia.nocookie.net/netflix/images/0/0e/MH_S5_Promotional.jpg/revision/latest?cb=20210904021400";
+        "link":"https://www.netflix.com/in/title/80192098?source=35",
+        "rating":"8.2"
+
+    },
+   {   "sname":"Squid Game",
+        "imgsrc":"https://upload.wikimedia.org/wikipedia/en/d/dd/Squid_Game.jpg";
+        "link":"https://www.netflix.com/in/title/81040344?source=35",
+        "rating":"8"
+
     }
+  
    
    
 ]
