@@ -2,11 +2,11 @@
    "projects" : [
      {
        "name":"Personal portfolio website",
-       "discription":"Website adabtable to all devices",
+       "discription":"Website adabtable to all devices"
       },
       {
        "name":"Leadflix",
-       "discription":"Website to get leading Netflix series and movies...",
+       "discription":"Website to get leading Netflix series and movies..."
       }
      ]
 }
