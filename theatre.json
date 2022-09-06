@@ -20,21 +20,7 @@
          "rating":"7.5"
  
      },
-    {   "sname":"WHITE ORCHID THEATRE",
-        "location":"DAISY AVENUE, IMPERIAL BEACH CA ",
-        "link":"https://static.wixstatic.com/media/b28659_0fb7deb30f1c48efa45102e2fae7a4aa~mv2.png/v1/fill/w_560,h_206,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/whiteorchidfinaltransparent.png",
- 
-         "rating":"8"
- 
-     },
-    {   "sname":"THE UNISON THEATRE",
-        "location":"FIELD DAISY LANE, EAST NORTHPORT NY",
-        "link":"https://m.media-amazon.com/images/I/51iuvYY8hDL._UXNaN_FMjpg_QL85_.jpg",
-         "rating":"6.9"
- 
-     },
-   
-        { "sname":"APOLLO CINEMA",
+     { "sname":"APOLLO CINEMA",
         "location":"AVENIDA BARCELONA, SAN CLEMENTE, CA",
         "link":"https://media.istockphoto.com/photos/apollo-cinema-center-in-the-city-center-of-wiesbaden-picture-id1141183429",
          "rating":"6.4"
