@@ -1,10 +1,11 @@
 {
   "images" : [
-        {"url":"https://www.moviepostershop.com/images/slideshow/new-releases.jpg"},
+       
         {"url":"https://collider.com/wp-content/uploads/dark-knight-rises-movie-poster-banner-catwoman.jpg"},
         {"url":"https://assets-in.bmscdn.com/promotions/cms/creatives/1662146185915_bms.jpg"},
         {"url":"https://img.freepik.com/free-vector/online-cinema-banner-with-open-clapper-board-film-strip_1419-2242.jpg?w=2000"},
-        {"url":"https://cdn.pixabay.com/photo/2016/01/22/08/17/banner-1155437__340.png"}
+        {"url":"https://cdn.pixabay.com/photo/2016/01/22/08/17/banner-1155437__340.png"},
+     {"url":"https://www.moviepostershop.com/images/slideshow/new-releases.jpg"}
     
     ]
 }
