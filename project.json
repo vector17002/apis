@@ -33,5 +33,20 @@
   
    
    
-]
+],
+ "updata":[
+       {   "sname":"Brahmastra",
+        "imgsrc":"https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Brahmastra_Teaser.jpeg/220px-Brahmastra_Teaser.jpeg",
+        
+        "rating":"8.8"
+
+    },
+  
+ 
+   {   "sname":"Dragon Ball Super",
+        "imgsrc":"https://dx35vtwkllhj9.cloudfront.net/crunchy-roll/dragon-ball-super-super-hero/images/regions/intl/onesheet.jpg",
+         "rating":"8.2"
+
+    }
+ ]
 }
