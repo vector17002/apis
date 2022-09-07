@@ -1,15 +1,5 @@
 { "Sdata" : [
-  
-   
-    {   "sname":"Brahmastra",
-        "imgsrc":"https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Brahmastra_Teaser.jpeg/220px-Brahmastra_Teaser.jpeg",
-        
-        "rating":"8.8"
-
-    },
-  
- 
-   {   "sname":"Dragon Ball Super",
+     {   "sname":"Dragon Ball Super",
         "imgsrc":"https://dx35vtwkllhj9.cloudfront.net/crunchy-roll/dragon-ball-super-super-hero/images/regions/intl/onesheet.jpg",
          "rating":"8.2"
 
@@ -24,12 +14,21 @@
          "rating":"4"
 
     },
-  
-       {   "sname":"Men",
+    {   "sname":"Men",
         "imgsrc":"https://www.themoviedb.org/t/p/w500/jo1Kv3P3UgDVk7JnUFr2Cl8WWUM.jpg",
         "rating":"8.6"
 
-    }
+    },
+  {   "sname":"Kartikeya 2",
+       "imgsrc":"https://m.media-amazon.com/images/M/MV5BODY2OTkwMTAtNjY2Yi00MzUzLWFiMGItZGZiMGE2NGM0M2E3XkEyXkFqcGdeQXVyMTI3NDUwMjc0._V1_.jpg",
+      "rating":"7.9"
+  },
+  {
+    "sname":"Jurassic world:Dominion",
+       "imgsrc":"https://m.media-amazon.com/images/M/MV5BOTBjMjA4NmYtN2RjMi00YWZlLTliYTktOTIwMmNkYjYxYmE1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+      "rating":"8.6"
+    
+  }
   
    
    
@@ -37,16 +36,19 @@
  "updata":[
        {   "sname":"Brahmastra",
         "imgsrc":"https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Brahmastra_Teaser.jpeg/220px-Brahmastra_Teaser.jpeg",
-        
         "rating":"8.8"
 
     },
-  
- 
-   {   "sname":"Dragon Ball Super",
-        "imgsrc":"https://dx35vtwkllhj9.cloudfront.net/crunchy-roll/dragon-ball-super-super-hero/images/regions/intl/onesheet.jpg",
-         "rating":"8.2"
+     {   "sname":"BlacK Addam",
+        "imgsrc":"https://comicyears.com/wp-content/uploads/2022/06/Black-Adam-New-Posters-e1654368428475.jpg",
+        "rating":"8.2"
+
+    },
+      {   "sname":"Bhediya",
+        "imgsrc":"https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Bhediya_film_poster.jpg/220px-Bhediya_film_poster.jpg",
+        "rating":"7.8"
 
     }
+ 
  ]
 }
