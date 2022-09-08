@@ -59,7 +59,13 @@
         "imgsrc":"https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Bhediya_film_poster.jpg/220px-Bhediya_film_poster.jpg",
         "rating":"7.8"
 
+    },   
+      {   "sname":"Avatar the way of water",
+        "imgsrc":"https://m.media-amazon.com/images/M/MV5BMWFmYmRiYzMtMTQ4YS00NjA5LTliYTgtMmM3OTc4OGY3MTFkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+        "rating":"8.8"
+
     }
+ 
  
  ]
 }
