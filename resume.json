@@ -2,14 +2,14 @@
      {   "sname":"Leadflix",
         "imgsrc":"https://help.nflxext.com/43e0db2f-fea0-4308-bfb9-09f2a88f6ee4_what_is_netflix_1_en.png",
       "discription":"Website which helps you explore leading Netflix series and movies (Aug 2022)",
-         "Skills":"React,Axios",
+         "Skills":"React , Axios",
       "link":"https://leadflix.netlify.app/"
 
     },
       {   "sname":"React Calculator",
         "imgsrc":"https://miro.medium.com/max/1000/0*RYly7PL7viKLBkEe",
       "discription":"Calculator using ReactJs technology(July 2022)",
-         "Skills":"React,Javascript",
+         "Skills":"React , Javascript",
        "link":"https://react-calculator-ansh.netlify.app/"
 
     }
