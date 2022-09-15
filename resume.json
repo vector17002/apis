@@ -37,5 +37,38 @@
        "name":"Javascript",
       "color":"pink"
       }
+ ],
+ "tech":[
+      {
+       "name":"ReactJs",
+      "color":"yellow"
+      },
+      {
+       "name":"NodeJs",
+      "color":"orange"
+      },
+       {
+       "name":"Express",
+      "color":"pink"
+      },
+        {
+       "name":"MongoDb",
+      "color":"green"
+      }
+ ],
+ "fund":[
+       {
+       "name":"DBMS",
+      "color":"green"
+      },
+      {
+       "name":"DSA",
+      "color":"orange"
+      },
+         {
+       "name":"OOPS",
+      "color":"yellow"
+      }
+ 
  ]
 }
