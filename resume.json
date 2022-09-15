@@ -1,0 +1,41 @@
+{ "Projectss" : [
+     {   "sname":"Leadflix",
+        "imgsrc":"https://help.nflxext.com/43e0db2f-fea0-4308-bfb9-09f2a88f6ee4_what_is_netflix_1_en.png",
+      "discription":"Website which helps you explore leading Netflix series and movies (Aug 2022)",
+         "Skills":"React,Axios",
+      "link":"https://leadflix.netlify.app/"
+
+    },
+      {   "sname":"React Caclculator",
+        "imgsrc":"https://miro.medium.com/max/1000/0*RYly7PL7viKLBkEe",
+      "discription":"Calculator on React app (July 2022)",
+         "Skills":"React,Javascript",
+       "link":"https://react-calculator-ansh.netlify.app/"
+
+    }
+  ],
+ "updata":[
+       {   "sname":"Brahmastra",
+        "imgsrc":"https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Brahmastra_Teaser.jpeg/220px-Brahmastra_Teaser.jpeg",
+        "rating":"8.8"
+
+    },
+     {   "sname":"BlacK Addam",
+        "imgsrc":"https://comicyears.com/wp-content/uploads/2022/06/Black-Adam-New-Posters-e1654368428475.jpg",
+        "rating":"8.2"
+
+    },
+      {   "sname":"Bhediya",
+        "imgsrc":"https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Bhediya_film_poster.jpg/220px-Bhediya_film_poster.jpg",
+        "rating":"7.8"
+
+    },   
+      {   "sname":"Avatar the way of water",
+        "imgsrc":"https://m.media-amazon.com/images/M/MV5BMWFmYmRiYzMtMTQ4YS00NjA5LTliYTgtMmM3OTc4OGY3MTFkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+        "rating":"8.8"
+
+    }
+ 
+ 
+ ]
+}
