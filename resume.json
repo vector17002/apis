@@ -32,14 +32,6 @@
       {
        "name":"HTML",
       "color":"green"
-      },   
-      {
-       "name":"CSS",
-      "color":"pink"
-      } ,     
-      {
-       "name":"Javascript",
-      "color":"blue"
-      } 
+      }
  ]
 }
