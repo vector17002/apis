@@ -32,6 +32,14 @@
       {
        "name":"HTML",
       "color":"green"
+      },
+       {
+       "name":"CSS",
+      "color":"blue"
+      },
+        {
+       "name":"Javascript",
+      "color":"pink"
       }
  ]
 }
