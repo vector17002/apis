@@ -22,20 +22,16 @@
   ],
  "languages":[
       {
-       "name":"C++",
+       "name":"C/C++",
       "color":"orange"
-      },   
-      {
-       "name":"C",
-      "color":"yellow"
-      } ,  
+      },
       {
        "name":"HTML",
       "color":"green"
       },
        {
        "name":"CSS",
-      "color":"blue"
+      "color":"yellow"
       },
         {
        "name":"Javascript",
