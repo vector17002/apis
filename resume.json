@@ -6,6 +6,13 @@
        "link":"https://ecommerce-ui-ebon.vercel.app/"
 
     },
+      {   "sname":"Leadflix Moviebooking",
+        "imgsrc":"https://help.nflxext.com/43e0db2f-fea0-4308-bfb9-09f2a88f6ee4_what_is_netflix_1_en.png",
+      "discription":"Moviebooking website UI [Desktop view is recommended](Aug 2022)",
+         "Skills":"React , Axios ,CSS ",
+      "link":"https://moviebooking-silk.vercel.app/"
+
+    },
      {   "sname":"Leadflix",
         "imgsrc":"https://help.nflxext.com/43e0db2f-fea0-4308-bfb9-09f2a88f6ee4_what_is_netflix_1_en.png",
       "discription":"Website which helps you explore leading Netflix series and movies (Aug 2022)",
