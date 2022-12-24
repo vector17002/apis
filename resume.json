@@ -1,4 +1,11 @@
 { "Projectss" : [
+      {   "sname":"Ecommerce UI design",
+        "imgsrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRje0U8swIE-4aX77GmTz304_42x79Q-mJgZ-6KeMoXs7RoPXaF4z4P5pdaG_LhdMD7d8&usqp=CAU",
+      "discription":"Ecommerce UI design using NextJS and Sanity",
+         "Skills":"ReactJS, NextJS , Sanity, CSS",
+       "link":"https://ecommerce-ui-ebon.vercel.app/"
+
+    },
      {   "sname":"Leadflix",
         "imgsrc":"https://help.nflxext.com/43e0db2f-fea0-4308-bfb9-09f2a88f6ee4_what_is_netflix_1_en.png",
       "discription":"Website which helps you explore leading Netflix series and movies (Aug 2022)",
@@ -36,6 +43,10 @@
         {
        "name":"Javascript",
       "color":"pink"
+        },
+        {
+       "name":"Java",
+      "color":"grey"
       }
  ],
  "tech":[
@@ -53,6 +64,22 @@
       },
         {
        "name":"MongoDb",
+      "color":"green"
+      },
+         {
+       "name":"AlanAi",
+      "color":"grey"
+      },
+      {
+       "name":"Sanity",
+      "color":"yellow"
+      },   
+      {
+       "name":"Tailwind",
+      "color":"orange"
+      },   
+      {
+       "name":"Bootstrap",
       "color":"green"
       }
  ],
