@@ -89,10 +89,6 @@
        "name":"MongoDb",
       "color":"green"
       },
-         {
-       "name":"AlanAi",
-      "color":"grey"
-      },
       {
        "name":"Sanity",
       "color":"yellow"
@@ -101,10 +97,6 @@
        "name":"Tailwind",
       "color":"orange"
       },   
-      {
-       "name":"Bootstrap",
-      "color":"green"
-      }
  ],
  "fund":[
        {
