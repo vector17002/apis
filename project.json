@@ -1,5 +1,10 @@
 { "Sdata" : [
-     {   "sname":"Dragon Ball Super",
+       {   "sname":"Avataar:The way of water",
+        "imgsrc":"https://images.news18.com/ibnlive/uploads/2022/09/avatar-16631299934x3.jpg",
+         "rating":"8.8"
+
+    },
+         {   "sname":"Dragon Ball Super",
         "imgsrc":"https://dx35vtwkllhj9.cloudfront.net/crunchy-roll/dragon-ball-super-super-hero/images/regions/intl/onesheet.jpg",
          "rating":"8.8"
 
@@ -14,12 +19,7 @@
          "rating":"8.6"
 
     },
-     
-   {   "sname":"Dejavu",
-        "imgsrc":"https://m.media-amazon.com/images/M/MV5BZjA1MjM1MjAtYjZiZS00N2U1LWJjYjEtZTlmMGJjNWJiYjczXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_.jpg",
-         "rating":"8"
-
-    },
+ 
    {   "sname":"The Privelage",
         "imgsrc":"https://m.media-amazon.com/images/M/MV5BZTczYjNiNDYtMzU3MS00MTljLWFhOGYtOWM0YTAwNWQ2N2I1XkEyXkFqcGdeQXVyMTAzOTQ3MjY1._V1_FMjpg_UX1000_.jpg",
          "rating":"4"
@@ -30,19 +30,11 @@
         "rating":"8.6"
 
     },
-  {   "sname":"Kartikeya 2",
-       "imgsrc":"https://m.media-amazon.com/images/M/MV5BODY2OTkwMTAtNjY2Yi00MzUzLWFiMGItZGZiMGE2NGM0M2E3XkEyXkFqcGdeQXVyMTI3NDUwMjc0._V1_.jpg",
-      "rating":"7.9"
-  },
   {
     "sname":"Jurassic world:Dominion",
        "imgsrc":"https://m.media-amazon.com/images/M/MV5BOTBjMjA4NmYtN2RjMi00YWZlLTliYTktOTIwMmNkYjYxYmE1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
-      "rating":"8.6"
-    
+      "rating":"8.6"   
   }
-  
-   
-   
 ],
  "updata":[
        {   "sname":"Brahmastra",
@@ -59,13 +51,6 @@
         "imgsrc":"https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Bhediya_film_poster.jpg/220px-Bhediya_film_poster.jpg",
         "rating":"7.8"
 
-    },   
-      {   "sname":"Avatar the way of water",
-        "imgsrc":"https://m.media-amazon.com/images/M/MV5BMWFmYmRiYzMtMTQ4YS00NjA5LTliYTgtMmM3OTc4OGY3MTFkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
-        "rating":"8.8"
-
     }
- 
- 
  ]
 }
