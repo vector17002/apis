@@ -13,20 +13,6 @@
        "link":"https://ecommerce-ui-ebon.vercel.app/"
 
     },
-      {   "sname":"Leadflix Moviebooking",
-        "imgsrc":"https://img.freepik.com/premium-vector/landing-page-movie-booking-website-template_169533-200.jpg",
-      "discription":"Moviebooking website UI [Desktop is recommended](Sep 2022)",
-         "Skills":"React , Axios ,CSS ",
-      "link":"https://moviebooking-silk.vercel.app/"
-
-    },
-     {   "sname":"Leadflix",
-        "imgsrc":"https://help.nflxext.com/43e0db2f-fea0-4308-bfb9-09f2a88f6ee4_what_is_netflix_1_en.png",
-      "discription":"Website which helps you explore leading Netflix series and movies (Aug 2022)",
-         "Skills":"React , Axios",
-      "link":"https://leadflix.netlify.app/"
-
-    },
       {   "sname":"React Calculator",
         "imgsrc":"https://miro.medium.com/max/1000/0*RYly7PL7viKLBkEe",
       "discription":"Calculator using ReactJs technology(July 2022)",
@@ -39,14 +25,6 @@
       "discription":"Tic tac toe game using HTML,CSS and JavaScript(April 2022)",
          "Skills":"HTML ,CSS , Javscript",
        "link":"https://javascripttictactoe.netlify.app/"
-
-    },
-      
-    {   "sname":"Portfolio Website",
-        "imgsrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRje0U8swIE-4aX77GmTz304_42x79Q-mJgZ-6KeMoXs7RoPXaF4z4P5pdaG_LhdMD7d8&usqp=CAU",
-      "discription":"Responsive Portfolio Website(Feb 2022)",
-         "Skills":"HTML , CSS , Javascript",
-       "link":"https://anshk-portolio.netlify.app"
 
     }
   ],
